@@ -3,7 +3,6 @@ bodyParser     = require 'body-parser'
 methodOverride = require 'method-override'
 serveStatic    = require 'serve-static'
 errorhandler   = require 'errorhandler'
-concat         = require 'concat'
 
 base           = require './base'
 
